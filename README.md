@@ -4,6 +4,7 @@ I like working on local AI tools, web apps, automation, and projects that help m
 
 ## Selected Projects
 
+- **[F1 Dual Engineer](https://github.com/jlsp124/f1-dual-engineer)** — a dual-driver F1 25 telemetry and race-engineering app with live timing, lap comparison, coaching analysis, session exports, and career tracking
 - **[Loop](https://github.com/jlsp124/Loop)** — a Windows-first local AI process powered by Ollama
 - **[Cortisol Arcade](https://github.com/jlsp124/careers10-arena)** — a LAN desktop arcade with multiplayer features and a simulated economy
 - **[Careers AI Desk](https://github.com/jlsp124/careers10ai)** — a Cloudflare-based file submission and delivery workflow
