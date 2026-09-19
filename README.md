@@ -6,8 +6,6 @@ I build software around AI, automation, telemetry, observability, and web system
 
 - **[F1 Dual Engineer](https://github.com/jlsp124/f1-dual-engineer)** — dual-driver F1 25 telemetry and race-engineering software with live timing, lap comparison, session analysis, exports, and career tracking.
 - **[Recplace Professional Centre](https://github.com/jlsp124/recplace)** — responsive production website for a commercial development, including leasing, location, plans, updates, and SEO work.
-- **[Dental Office Safe Cleanup Kit](https://github.com/jlsp124/dentalofficecleanup)** — audit-first Windows maintenance and inventory tooling designed for repeatable office-PC cleanup.
-- **[Loop](https://github.com/jlsp124/Loop)** — local AI experimentation around persistent desktop workflows and Ollama.
 
 ## Current Focus
 
