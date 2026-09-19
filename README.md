@@ -1,14 +1,20 @@
 # Jovan Pahal
 
-I like working on local AI tools, web apps, automation, and projects that help me understand how larger systems work.
+I build software around AI, automation, telemetry, observability, and web systems. I like taking messy real-world problems, reducing them to a clear architecture, and then pushing the implementation until it feels finished.
 
 ## Selected Projects
 
-- **[F1 Dual Engineer](https://github.com/jlsp124/f1-dual-engineer)** — a dual-driver F1 25 telemetry and race-engineering app with live timing, lap comparison, coaching analysis, session exports, and career tracking
-- **[Loop](https://github.com/jlsp124/Loop)** — a Windows-first local AI process powered by Ollama
-- **[Cortisol Arcade](https://github.com/jlsp124/careers10-arena)** — a LAN desktop arcade with multiplayer features and a simulated economy
-- **[Careers AI Desk](https://github.com/jlsp124/careers10ai)** — a Cloudflare-based file submission and delivery workflow
-- **[Recplace Professional Centre](https://github.com/jlsp124/recplace)** — a responsive website for a commercial development
-- **[Dental Office Safe Cleanup Kit](https://github.com/jlsp124/dentalofficecleanup)** — an audit-first Windows maintenance toolkit
+- **[F1 Dual Engineer](https://github.com/jlsp124/f1-dual-engineer)** — dual-driver F1 25 telemetry and race-engineering software with live timing, lap comparison, session analysis, exports, and career tracking.
+- **[Recplace Professional Centre](https://github.com/jlsp124/recplace)** — responsive production website for a commercial development, including leasing, location, plans, updates, and SEO work.
+- **[Dental Office Safe Cleanup Kit](https://github.com/jlsp124/dentalofficecleanup)** — audit-first Windows maintenance and inventory tooling designed for repeatable office-PC cleanup.
+- **[Loop](https://github.com/jlsp124/Loop)** — local AI experimentation around persistent desktop workflows and Ollama.
 
-Most of my larger experimental work is kept private while it is still being developed.
+## Current Focus
+
+- AI-assisted software engineering with strong verification and review
+- developer tools and automation
+- telemetry / observability systems
+- Linux and local-first workflows
+- polished web products
+
+I keep most experiments private until they are useful enough to publish.
