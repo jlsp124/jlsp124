@@ -2,6 +2,8 @@
 
 I build software around AI, automation, telemetry, observability, and web systems. I like taking messy real-world problems, reducing them to a clear architecture, and then pushing the implementation until it feels finished.
 
+**Contact:** [jovan@jovanpahal.com](mailto:jovan@jovanpahal.com)
+
 ## Selected Projects
 
 - **[F1 Dual Engineer](https://github.com/jlsp124/f1-dual-engineer)** — dual-driver F1 25 telemetry and race-engineering software with live timing, lap comparison, session analysis, exports, and career tracking.
